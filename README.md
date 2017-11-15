@@ -1,5 +1,7 @@
-CMSmap
-======
+[CMSmap](https://github.com/The404Hacking/CMSmap) v0.6 - Simple CMS Scanner
+================================
+
+![CMSmap](Screenshot.png?raw=true "CMSmap")
 
 CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs. The main purpose of CMSmap is to integrate common vulnerabilities 
 for different types of CMSs in a single tool. 
@@ -64,3 +66,21 @@ Disclaimer
 Usage of CMSmap for attacking targets without prior mutual consent is illegal. 
 It is the end user's responsibility to obey all applicable local, state and federal laws. 
 Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+
+
+## Download and Clone
+> Download: [https://github.com/The404Hacking/CMSmap/archive/master.zip](https://github.com/The404Hacking/CMSmap/archive/master.zip)
+
+> Clone: git clone [https://github.com/The404Hacking/CMSmap](https://github.com/The404Hacking/CMSmap.git)
+
+## The404Hacking | Digital UnderGround Team
+[The404Hacking](https://T.me/The404Hacking)
+
+## Follow us !
+[The404Hacking](https://T.me/The404Hacking) - [The404Cracking](https://T.me/The404Cracking)
+
+[Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
+
+[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
+
+[Weblog](http://the404hacking.blogsky.com) - [Email](mailto:The404Hacking.Team@Gmail.Com)
