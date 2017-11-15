@@ -14,7 +14,7 @@ Installation
 =====
 You can download the latest version of CMSmap by cloning the GitHub repository:
 
-	git clone https://github.com/Dionach/CMSmap.git
+	git clone https://github.com/The404Hacking/CMSmap.git
 
 
 Usage
